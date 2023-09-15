@@ -1,7 +1,7 @@
 # NoorulAmeen Apnacollege
 <html>
   <head>
-<title>NoorulAmeen apnacollege with youtube tutorial</title>
+NoorulAmeen apnacollege with youtube tutorial
 </head>
 <br>
 <b>
