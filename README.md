@@ -1,8 +1,8 @@
 # NoorulAmeen Apnacollege
-<b>
-  <i></i>
-  NoorulAmeen apnacollege with youtube tutorial
+NoorulAmeen apnacollege with youtube tutorial
 <br>
+<b>
+<i>
 i am ameen 
 <br>
 learing git and gitub
